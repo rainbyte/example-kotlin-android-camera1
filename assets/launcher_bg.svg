@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="IconBackground.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg918"
+   version="1.1"
+   viewBox="0 0 28.575001 28.575001"
+   height="108"
+   width="108">
+  <defs
+     id="defs912" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1053"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="47.993213"
+     inkscape:cx="38.651145"
+     inkscape:zoom="4.7586742"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata915">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(-9.664753,-102.09892)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="IconBackground">
+    <text
+       id="text1513"
+       y="83.086975"
+       x="55.412334"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="83.086975"
+         x="55.412334"
+         id="tspan1511"
+         sodipodi:role="line" /></text>
+    <rect
+       y="102.09892"
+       x="9.664753"
+       height="28.575001"
+       width="28.575001"
+       id="rect836"
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.642903" />
+  </g>
+</svg>
